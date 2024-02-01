@@ -1,5 +1,5 @@
-# airdrop_tool
-Airdrop tool to assist with distribution of NFTs across SEI addresses. This is a very rudimentary tool that I hope to update over time. But for now wanted this out there to help others.
+# Introducing, Airdrop Tool by SEI Ducks!!
+Airdrop tool developed by the SEI Ducks team to assist with distribution of NFTs across SEI addresses. This is a very rudimentary tool that I hope to update over time. But for now wanted this out there to help others who have a need to distribute hundreds or thousands of NFTs on SEI in an effective and easy to approach manner.
 
 Requires seid to be installed to use.
 
